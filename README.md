@@ -18,10 +18,17 @@ Welcome to my GitHub profile! I'm Yahchayil Da Silva, a dedicated blockchain dev
 
 ### 🚀 Projects and Contributions
 
-- [Project 1](link): Brief description of the project and your role
-- [Project 2](link): Brief description of the project and your role
-
-I actively contribute to the blockchain community through open-source projects, insightful articles, and collaboration. Feel free to explore my repositories and reach out to discuss innovative ideas or potential collaborations.
+- [Project 1](vite.org): 
+    Implemented Vitex DeFi and smart contracts using Rust and the Substrate framework, ensuring robust and secure decentralized finance functionalities.
+    Designed and developed the frontend home page of the Vite Labs platform using Vue.js, creating an intuitive and user-friendly interface.
+    Constructed the Vitex exchange page using Vue.js, facilitating seamless trading experiences for users.
+    Developed the Vitex-Python API module using Python, enabling efficient integration and interaction with the ViteX exchange. 
+    The module was deployed to PyPI for easy accessibility and usage.
+- [Project 2](AXcoins Exchange): 
+    Developed automated trading strategies on Uniswap and QuickSwap, leveraging the power of decentralized exchanges to optimize trading activities and enhance       liquidity. 
+    Implemented AXcoins DeFi Smart Contract using Rust, ensuring the security, efficiency, and functionality of the decentralized finance (DeFi) protocols.
+    Built the exchange page of AXcoins Exchange using React.js, creating a user-friendly and intuitive interface for seamless trading experiences.
+    I actively contribute to the blockchain community through open-source projects, insightful articles, and collaboration. Feel free to explore my repositories       and reach out to discuss innovative ideas or potential collaborations.
 
 ### 📫 Let's Connect!
 
