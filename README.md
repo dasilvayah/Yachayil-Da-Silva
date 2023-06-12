@@ -25,7 +25,7 @@ I actively contribute to the blockchain community through open-source projects, 
 
 ### 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: [https://www.linkedin.com/in/yahchayil-da-silva-585854260](https://www.linkedin.com/in/yahchayil-da-silva-585854260/)
+- Twitter: [https://twitter.com/YourTwitterHandle](https://twitter.com/yahchayil86059)
 
 Let's build a decentralized future together! 🌟
