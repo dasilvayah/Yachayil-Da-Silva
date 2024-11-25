@@ -1,6 +1,6 @@
 ## Blockchain Developer | Full-Stack Enthusiast | Smart Contract Auditor
 
-Welcome to my GitHub profile! I'm Yahchayil Da Silva, a dedicated blockchain developer with a passion for building decentralized solutions.
+Welcome to my GitHub profile! I'm a dedicated blockchain developer with a passion for building decentralized solutions.
 
 ### 🔭 My Expertise
 
