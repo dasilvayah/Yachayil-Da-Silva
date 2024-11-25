@@ -32,6 +32,6 @@ Welcome to my GitHub profile! I'm Yahchayil Da Silva, a dedicated blockchain dev
 
 ### 📫 Let's Connect!
 
-- LinkedIn: [https://www.linkedin.com/in/yahchayil-da-silva-585854260](https://www.linkedin.com/in/yahchayil-da-silva-585854260)
+- LinkedIn: [https://www.linkedin.com/in/surachat-wongphom-29517b337](https://www.linkedin.com/in/surachat-wongphom-29517b337)
 
 Let's build a decentralized future together! 🌟
