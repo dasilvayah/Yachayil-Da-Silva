@@ -34,5 +34,6 @@ Welcome to my GitHub profile! I'm a dedicated blockchain developer with a passio
 
 - LinkedIn: [https://www.linkedin.com/in/surachat-wongphom-29517b337](https://www.linkedin.com/in/surachat-wongphom-29517b337)
 - Whatsapp & Telegram: +66 809 476 380
+- Skype: surachatwongphom@gmail.com (live:.cid.8d20b8071aa19c1a)
 
 Let's build a decentralized future together! 🌟
